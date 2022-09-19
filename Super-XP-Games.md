@@ -3,8 +3,6 @@
 <img align="left" src="images/Minecraft.png" alt="Minecraft" width="120"/>
 <br/><br/>
 
-<p>ArmCord - <a class="link"href="https://github.com/ArmCord/ArmCord" target="_blank" rel="noopener noreferrer">A lightweight standalone Discord client</a><p>
-
 [Minecraft Unblocked](https://superteamxp.github.io/Minecraft-Unblocked/javascript) (NOW HAS SINGLEPLAYER AND LAN WORLD SUPPORT!) (Does not work on iPad)
 <br/><br/><br/><br/><br/>
 
