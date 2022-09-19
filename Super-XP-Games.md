@@ -113,3 +113,5 @@
 <br/>
 
 [Taiko Web](https://taiko.bui.pm/)
+
+<p>ArmCord - <a class="link"href="https://github.com/ArmCord/ArmCord" target="_blank" rel="noopener noreferrer">A lightweight standalone Discord client</a><p>
