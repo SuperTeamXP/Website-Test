@@ -116,7 +116,7 @@
 
 <br/><br/>
 
-<img align="left" src="images/GBA Emulator.PNG" alt="GBA Emulator" width="180"/>
+<img align="left" src="images/GBA Emulator.PNG" alt="GBA Emulator" width="230"/>
 
 <br/>
 
