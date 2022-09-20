@@ -113,7 +113,6 @@
 <br/>
 
 [Taiko Web](https://taiko.bui.pm/)
-
 <br/><br/><br/>
 
 <img align="left" src="images/GBA Emulator.jpg" alt="GBA Emulator" width="170"/>
