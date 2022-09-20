@@ -114,9 +114,9 @@
 
 [Taiko Web](https://taiko.bui.pm/)
 
-<br/><br/><br/>
+<br/><br/>
 
-<img align="left" src="images/GBA Emulator.PNG" alt="GBA Emulator" width="200"/>
+<img align="left" src="images/GBA Emulator.PNG" alt="GBA Emulator" width="180"/>
 
 <br/>
 
