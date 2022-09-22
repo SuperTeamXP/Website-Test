@@ -145,3 +145,19 @@
 <br/>
 
 [Super Smash Bros](https://superteamxp.github.io/Super-Smash-Bros-Unblocked/)
+
+<br/><br/>
+
+<img align="left" src="images/Banjo-Kazooie.png" alt="Banjo-Kazooie" width="170"/>
+
+<br/>
+
+[Banjo-Kazooie](https://superteamxp.github.io/Banjo-Kazooie-Unblocked/)
+
+<br/><br/>
+
+<img align="left" src="images/Banjo-Tooie.png" alt="Banjo-Tooie" width="170"/>
+
+<br/>
+
+[Banjo-Tooie](https://superteamxp.github.io/Banjo-Tooie-Unblocked/)
